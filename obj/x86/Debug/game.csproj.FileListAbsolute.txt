@@ -1,0 +1,16 @@
+C:\Users\sara\Desktop\game\game\bin\Debug\game.exe
+C:\Users\sara\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\sara\Desktop\game\game\obj\x86\Debug\a_day_at_the_race_grp_22.Form1.resources
+C:\Users\sara\Desktop\game\game\obj\x86\Debug\a_day_at_the_race_grp_22.Properties.Resources.resources
+C:\Users\sara\Desktop\game\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
+C:\Users\sara\Desktop\game\game\obj\x86\Debug\game.exe
+C:\Users\sara\Desktop\game\game\obj\x86\Debug\game.pdb
+C:\Users\sara\Desktop\game\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\mohammed\Documents\Visual Studio 2012\Projects\game\game\game\obj\x86\Debug\game.exe
+C:\Users\mohammed\Documents\Visual Studio 2012\Projects\game\game\game\obj\x86\Debug\game.pdb
+C:\Users\mohammed\Documents\Visual Studio 2012\Projects\game\game\game\bin\Debug\game.exe
+C:\Users\mohammed\Documents\Visual Studio 2012\Projects\game\game\game\bin\Debug\game.pdb
+C:\Users\mohammed\Documents\Visual Studio 2012\Projects\game\game\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\mohammed\Documents\Visual Studio 2012\Projects\game\game\game\obj\x86\Debug\a_day_at_the_race_grp_22.Form1.resources
+C:\Users\mohammed\Documents\Visual Studio 2012\Projects\game\game\game\obj\x86\Debug\a_day_at_the_race_grp_22.Properties.Resources.resources
+C:\Users\mohammed\Documents\Visual Studio 2012\Projects\game\game\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
